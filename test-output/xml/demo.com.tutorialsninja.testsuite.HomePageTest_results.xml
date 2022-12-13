@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MyAccount Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.120">
+  <properties />
+  
+  
+            <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="1.312" classname="demo.com.tutorialsninja.testsuite.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" time="1.619" classname="demo.com.tutorialsninja.testsuite.HomePageTest" />
+                <testcase name="verifyUserShouldNavigateToComponentsPageSuccessfully" time="1.189" classname="demo.com.tutorialsninja.testsuite.HomePageTest" />
+      
+</testsuite>
